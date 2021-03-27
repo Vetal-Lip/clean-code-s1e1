@@ -82,7 +82,7 @@ input[type="text"] {
     font-family: Lato, sans-serif;
     color: #888;
 }
-input[type="text"]: focus {
+input[type="text"]:focus {
     color: #333;
 }
 
@@ -138,7 +138,7 @@ li > button.delete:hover {
 
 /* Completed */
 .completed-tasks-item__label {
-    text-decoration: line-through
+    text-decoration: line-through;
     color: #888;
 }
 
